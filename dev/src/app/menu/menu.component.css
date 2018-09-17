@@ -1,0 +1,13 @@
+#fh5co-slider>div>div:nth-child(1)>div>div>h2 {
+  margin-bottom: 130px;
+  font-size: 4em;
+  text-align: center;
+}
+
+#menu-table > div{
+  display: inline-flex;
+}
+
+#fh5co-featured-menu > div > div > div.col-md-12.fh5co-heading.animate-box.fadeInUp.animated-fast > h2 {
+  text-align: center;
+}

@@ -7,8 +7,6 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { HeaderComponent } from './header/header.component';
 import { AboutComponent } from './about/about.component';
 import { MenuComponent } from './menu/menu.component';
-import { TesitimonialComponent } from './tesitimonial/tesitimonial.component';
-import { SliderComponent } from './slider/slider.component';
 import { BlogComponent } from './blog/blog.component';
 import { AnimationBoxComponent } from './animation-box/animation-box.component';
 import { FooterComponent } from './footer/footer.component';
@@ -23,13 +21,11 @@ import { TestimonialComponent } from './testimonial/testimonial.component';
     HeaderComponent,
     AboutComponent,
     MenuComponent,
-    TesitimonialComponent,
-    SliderComponent,
     BlogComponent,
     AnimationBoxComponent,
     FooterComponent,
     TopComponent,
-    TestimonialComponent,
+    TestimonialComponent
   ],
   imports: [
     BrowserModule

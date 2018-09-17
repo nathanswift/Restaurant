@@ -1,0 +1,9 @@
+ div > div > div > div > img {
+    align-content: center;
+    display: block;
+}
+
+div[_ngcontent-c4] > div[_ngcontent-c4] > div[_ngcontent-c4] > div[_ngcontent-c4] > img[_ngcontent-c4] {
+    float: right;
+    margin-left: 30px;
+}
